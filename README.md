@@ -1,2 +1,9 @@
-# java-practicals-sem4
-Collection of Core Java programs including loops, arrays, functions, OOP concepts and practice problems.
+# Java Practicals - Semester 4
+
+This repository contains Core Java practical programs from Diploma Computer Engineering (4th Semester).
+
+## Programs Included
+
+- ArraySumAverage.java → Calculates sum and average of array elements.
+
+More programs will be added regularly as part of academic practical work.
